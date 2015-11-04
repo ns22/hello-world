@@ -1,3 +1,3 @@
 # hello-world
-Intro to GitHub
-Making the first changes to commit
+Intro GitHub
+Making the first changes to find out how to commit
